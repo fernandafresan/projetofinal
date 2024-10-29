@@ -1,23 +1,23 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Alimento',
+    'O sushi é um prato original de qual país?',
+    'Japão.'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Geral',
+    'Qual é o sobrenome mais comum no Brasil?',
+    'Silva.'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Geral',
+    'Qual é a cor que resulta da mistura das cores amarelo e vermelho?',
+    'Laranja.'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Biologia',
+    'Os morcegos pertencem a qual classe animal?',
+    'Mamíferos'
 )
